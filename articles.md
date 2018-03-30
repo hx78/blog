@@ -13,7 +13,7 @@ byte 不可以表示中文。
 
 char 转换为 byte，
 
-char t = '中';
+" char t = '中';
 
 CharBuffer cb = CharBuffer.allocate(1);
 
@@ -24,7 +24,8 @@ cb.flip();
 ByteBuffer bb = Charset.forName("utf-8").encode(cb);
 
 byte [] b = bb.array();
-转换后的byte长度，谁字符编码不同而不同。
+
+转换后的byte长度，随字符编码不同而不同。
 
 utf-8 编码 ：英文字母转byte 后占1个字节长度，中文占3个字节长度
 
