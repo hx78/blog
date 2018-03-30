@@ -31,11 +31,6 @@ utf-8 编码 ：英文字母转byte 后占1个字节长度，中文占3个字节
 
 gbk 编码：无论英文，中文都占2个字节长度
 
-作者：坚强一点
-链接：https://www.jianshu.com/p/13cda4b7305d
-來源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 
 ## Java IO：byte[]、char[]、String三种对象的转换 http://huaxia524151.iteye.com/blog/786651
 String与byte[]对象进行转换时应指定编码格式，否则有潜在的乱码问题。byte[] b = s.getBytes("utf-8"); String s = new String(b,"utf-8");
