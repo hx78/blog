@@ -13,17 +13,17 @@ byte 不可以表示中文。
 
 char 转换为 byte，
 
-" char t = '中';
+> char t = '中';
 
-CharBuffer cb = CharBuffer.allocate(1);
+> CharBuffer cb = CharBuffer.allocate(1);
 
-cb.put(t);
+> cb.put(t);
 
-cb.flip();
+> cb.flip();
 
-ByteBuffer bb = Charset.forName("utf-8").encode(cb);
+> ByteBuffer bb = Charset.forName("utf-8").encode(cb);
 
-byte [] b = bb.array();
+> byte [] b = bb.array();
 
 转换后的byte长度，随字符编码不同而不同。
 
