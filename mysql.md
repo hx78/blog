@@ -19,3 +19,6 @@
        </dataSource>   
    </environment>   
 </environments>  
+
+ 
+【原】配置Log4j，使得MyBatis打印出SQL语句 https://www.cnblogs.com/zjrodger/p/5447345.html
