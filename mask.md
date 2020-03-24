@@ -25,4 +25,8 @@ https://zhuanlan.zhihu.com/p/112783295
 https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-covid-service-update-faq-zh-cn.pdf
 
 出口
+
 https://www.tnc.com.cn/info/c-001001-d-3698184.html
+https://www.cifnews.com/article/63266
+https://www.cifnews.com/seller/directory/sheet/266?origin=pc_search_kouzhao
+
