@@ -17,3 +17,12 @@ http://www.xinhuanet.com/science/2020-01/22/c_138726106.htm
 
 https://www.zhizhizhi.com/a/mask-paihang/
 https://zhuanlan.zhihu.com/p/103661914
+
+寄国外
+
+https://www.cifnews.com/article/62700
+https://zhuanlan.zhihu.com/p/112783295
+https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-covid-service-update-faq-zh-cn.pdf
+
+出口
+https://www.tnc.com.cn/info/c-001001-d-3698184.html
