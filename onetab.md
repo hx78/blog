@@ -17,6 +17,9 @@ https://www.one-tab.com/page/tNsmujNNRQKOgG3EIUDkKA
 JAT/atomikos
 https://www.one-tab.com/page/3mvYCsMFT8CcIwIR-auKNw
 
+2020-3-27  spring context/bean加载/扩展点
+https://github.com/hx78/blog/edit/master/onetab.md
+
 少儿编程
 https://www.one-tab.com/page/OeV6WZL7QN21NwGeW_03tA
 https://www.one-tab.com/page/P89TaMjWSbK_X9C-XVs9ZA
