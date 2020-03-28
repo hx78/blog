@@ -43,3 +43,9 @@ https://www.52by.com/article/34012
 关于口罩出口，看这篇就够了
 
 https://user.guancha.cn/main/content?id=260626&page=1
+
+
+关于防疫产品的出口与独立站搭建指南
+
+https://www.amz123.com/thread-363021.htm
+
