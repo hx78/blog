@@ -34,3 +34,12 @@ https://www.cifnews.com/seller/directory/sheet/266?origin=pc_search_kouzhao
 不只有3M，所有NIOSH认证N95口罩厂家和型号汇总
 
 https://zhuanlan.zhihu.com/p/104666440
+
+口罩出口被扣？CE认证无效？真相在这里！
+
+https://www.52by.com/article/34012
+
+
+关于口罩出口，看这篇就够了
+
+https://user.guancha.cn/main/content?id=260626&page=1
